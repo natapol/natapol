@@ -37,8 +37,6 @@
 
 ![natapol](https://github-readme-stats.vercel.app/api/top-langs?username=natapol&show_icons=true&locale=en&layout=compact)
 
-<br/>
-
 ## Git Statatistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=natapol&show_icons=true&locale=en" alt="natapol" /></p>
+![natapol](https://github-readme-stats.vercel.app/api?username=natapol&show_icons=true&locale=en)
