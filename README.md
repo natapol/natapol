@@ -35,7 +35,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natapol&show_icons=true&locale=en&layout=compact" alt="natapol" /></p>
+![natapol](https://github-readme-stats.vercel.app/api/top-langs?username=natapol&show_icons=true&locale=en&layout=compact)
 
 <br/>
 
