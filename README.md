@@ -1,5 +1,7 @@
 # Hi 👋, I'm Natapol Pornputtapong
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natapol&label=Profile%20views&color=0e75b6&style=flat" alt="natapol" /> </p>
+
 ## Bioinformatician, Pharmaceutical AI
 
 - 🔭 I’m currently working on **Systems Immunology Model for Simulation**
@@ -35,7 +37,8 @@
 
 ## Git Statatistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natapol&label=Profile%20views&color=0e75b6&style=flat" alt="natapol" /> </p>
+![natapol](https://github-readme-stats.vercel.app/api?username=natapol&show_icons=true&locale=en)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natapol" alt="natapol" /></a> </p>
-![natapol](https://github-readme-stats.vercel.app/api?username=natapol&show_icons=true&locale=en)
+
+
