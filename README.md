@@ -39,6 +39,4 @@
 
 ![natapol](https://github-readme-stats.vercel.app/api?username=natapol&show_icons=true&locale=en)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natapol" alt="natapol" /></a> </p>
-
 
